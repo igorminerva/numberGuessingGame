@@ -6,7 +6,7 @@ A little game inspired from "BroCode C tutorial" where you need to guess the num
 1. Copy the code
 2. Make a folder/directory with this code inside
 3. Compile the code using the c/c++ compiler <br>
-For exemple in linux;
+For exemple in linux: <br>
 `gcc NumGuess.c -o NumGuess`
 4. Have fun!
 
